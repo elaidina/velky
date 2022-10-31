@@ -109,7 +109,7 @@ correct: "b",
   a: "pravda",
   b: "lež",
   
-  correct: "a",
+  correct: "b",
 },
 {
 question: "18. Benzin se vyrábí z ropy.",
@@ -159,7 +159,7 @@ b: "lež",
 
 correct: "b",
 },{
-question: "25. Telátko je mlédě od kozy.",
+question: "25. Telátko je mládě od kozy.",
 a: "pravda",
 b: "lež",
 
@@ -605,7 +605,7 @@ question: "92. Zmrzlina je studená a slaná.",
 a: "pravda",
 b: "lež",
 
-correct: "a",
+correct: "b",
 },{
 question: "93.Na výrobu cementu potřebujeme písek.",
 a: "pravda",
@@ -637,7 +637,7 @@ question: "97. Pračka je dechový hudební nástroj.",
 a: "pravda",
 b: "lež",
 
-correct: "a",
+correct: "b",
 },
 {
 question: "98. Herci většinou pracují v ZOO.",
