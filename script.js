@@ -27,7 +27,7 @@ const quizData = [
   
   correct: "a",
 },{
-  question: "5. Svokra je máma manžela nebo manželky.",
+  question: "5. Tchýně (svokra) je máma manžela nebo manželky.",
   a: "pravda",
   b: "lež",
   
@@ -146,514 +146,514 @@ b: "lež",
 correct: "b",
 },
 {
-question: "23. Panenky umí mluvit.",
+question: "23. Ryby žijí ve vodě.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "24. Zralé avokádo má růžovou barvu.",
+a: "pravda",
+b: "lež",
+
+correct: "b",
+},{
+question: "25. Telátko je mlédě od kozy.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "24. Zelená na semaforu znamená, že můžeme jít.",
+question: "26. Hříbátko je mládětem pejska.",
 a: "pravda",
 b: "lež",
 
-correct: "a",
+correct: "b",
 },{
-question: "5. Včely sbírají pyl a dělají z něj marmeládu.",
+question: "27. Do banky se chodí hrát fotbal.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "6. Hříbátko je mládětem pejska.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},{
-question: "7. Broskev je chutná zelenina.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},
-{
-question: "8. Bambi byl malý koloušek.",
+question: "28. Na Vánoce se většinou podává kapr s bramborovým salátem.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "9. Zmrzlina se dělá z křídy.",
+question: "29. Před spaním je potřeba oblíct si oteplováky.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "10. Lepící páska se používá na slepování papíru.",
+question: "30. Spánek je důležitý pro dobrou paměť a růst.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "11. Voda se vypařuje a mění se na páru.",
+question: "31. Duha vzniká když prší a zároveň svítí slunko.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "12. Zem se otáčí kolem slunce.",
+question: "32. Nejbližší planeta k Slunci je Merkur.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "13. Magnet přitahuje železné předměty.",
+question: "33. Německý kancelář se jmenuje Olaf Scholz.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "14. Lidé potřebují kyslík na dýchání.",
+question: "34. Lékárník pracuje většinou v lékarně.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "15. Pták se líhne z vajíčka.",
+question: "35. Těhotenství trvá 9 měsíců.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "16. Všechny děti se učí počítat.",
+question: "36. Ilustrátor kreslí obrázky do knih.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "17. Klavír je hudební nástroj.",
+question: "37. Beethoven byl hudební skladatel.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "18. Knížky se vyrábí z kakaa.",
+question: "38. V knihkupectví si můžeme vypůjčit knížky.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "19. Leden je první měsíc v roku.",
+question: "39. Poslední den v roku má svátek Silvestr.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "20. Listy padají ze stromů.",
+question: "40. Půlrok trvá 6 měsíců.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-  question: "1. Hrušky jsou velká auta.",
+  question: "41. Auto má dvě kola.",
   a: "pravda",
   b: "lež",
   
   correct: "b",
 },
 {
-question: "2. V bance se peče chleba.",
+question: "42. Kadeřník stříhá vlasy a vaří z nich polívky.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "3. Panenky umí mluvit.",
+question: "43. Večer slunko vychází a ráno zapadá.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "4. Zelená na semaforu znamená, že můžeme jít.",
+question: "44. Picasso byl slavný malíř.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "5. Včely sbírají pyl a dělají z něj marmeládu.",
+question: "45. Božena Němcová psala i pohádky.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "46. Hlavním městem Československa byla Bratislava.",
+a: "pravda",
+b: "lež",
+
+correct: "b",
+},{
+question: "47. Rýma se přenáší kapénkami mezi lidmi.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "48. Barbíny se vyrábí z plastu.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "49. Zmrzlina se dělá z křídy.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "6. Hříbátko je mládětem pejska.",
+question: "50. Lepící páska se používá na slepování papíru.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "51. Voda se vypařuje a mění se na páru.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "52. Zem se otáčí kolem slunce.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "53. Magnet přitahuje železné předměty.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "54. Lidé potřebují kyslík na dýchání.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "55. Pták se líhne z vajíčka.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "56. Všechny děti se učí počítat.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "57. Klavír je hudební nástroj.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "58. Knížky se vyrábí z kakaa.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "7. Broskev je chutná zelenina.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},
-{
-question: "8. Bambi byl malý koloušek.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "9. Zmrzlina se dělá z křídy.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},
-{
-question: "10. Lepící páska se používá na slepování papíru.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "11. Voda se vypařuje a mění se na páru.",
+question: "59. Leden je první měsíc v roku.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "12. Zem se otáčí kolem slunce.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "13. Magnet přitahuje železné předměty.",
+question: "60. Samice od býka je kráva.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "14. Lidé potřebují kyslík na dýchání.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "15. Pták se líhne z vajíčka.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-question: "16. Všechny děti se učí počítat.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "17. Klavír je hudební nástroj.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-question: "18. Knížky se vyrábí z kakaa.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},{
-question: "19. Leden je první měsíc v roku.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-question: "20. Listy padají ze stromů.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-  question: "1. Hrušky jsou velká auta.",
+  question: "61. 1 Metr má 1000 centimetrů.",
   a: "pravda",
   b: "lež",
   
   correct: "b",
 },
 {
-question: "2. V bance se peče chleba.",
+question: "62. V bance se peče chleba.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "3. Panenky umí mluvit.",
+question: "63. Panenky umí číst.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "4. Zelená na semaforu znamená, že můžeme jít.",
+question: "64. Zelená na semaforu znamená, že můžeme jít.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "5. Včely sbírají pyl a dělají z něj marmeládu.",
+question: "65. Včely sbírají pyl a dělají z něj marmeládu.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "6. Hříbátko je mládětem pejska.",
+question: "66. Hříbátko je mládětem pejska.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "7. Broskev je chutná zelenina.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},
-{
-question: "8. Bambi byl malý koloušek.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "9. Zmrzlina se dělá z křídy.",
+question: "67. Broskev je chutná zelenina.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "10. Lepící páska se používá na slepování papíru.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "11. Voda se vypařuje a mění se na páru.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-question: "12. Zem se otáčí kolem slunce.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "13. Magnet přitahuje železné předměty.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-question: "14. Lidé potřebují kyslík na dýchání.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "15. Pták se líhne z vajíčka.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-question: "16. Všechny děti se učí počítat.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "17. Klavír je hudební nástroj.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-question: "18. Knížky se vyrábí z kakaa.",
+question: "68. Bambi byl malý dinosaurus.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "19. Leden je první měsíc v roku.",
+question: "69. Hlavní město Irska je Moskva.",
+a: "pravda",
+b: "lež",
+
+correct: "b",
+},
+{
+question: "70. Halloween slavíme na podzim.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "71. Mandarinka je bobulové ovoce.",
+a: "pravda",
+b: "lež",
+
+correct: "b",
+},
+{
+question: "72. Zem se otáčí kolem slunce.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "73. Magnet přitahuje železné předměty.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "20. Listy padají ze stromů.",
+question: "74. Lidé potřebují kyslík na dýchání.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "75. Pták se líhne z vajíčka.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-  question: "1. Hrušky jsou velká auta.",
+question: "76. Všechny děti se učí počítat.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "77. Klavír je hudební nástroj.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "78. Knížky se vyrábí z kakaa.",
+a: "pravda",
+b: "lež",
+
+correct: "b",
+},{
+question: "79. Leden je první měsíc v roku.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+question: "80. Listy padají ze stromů.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},
+{
+  question: "81. Hrušky jsou velká auta.",
   a: "pravda",
   b: "lež",
   
   correct: "b",
 },
 {
-question: "2. V bance se peče chleba.",
+question: "82. V bance se peče chleba.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "3. Panenky umí mluvit.",
+question: "83. Panenky umí mluvit.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "4. Zelená na semaforu znamená, že můžeme jít.",
+question: "84. Zelená na semaforu znamená, že můžeme jít.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "5. Včely sbírají pyl a dělají z něj marmeládu.",
+question: "85. Včely sbírají pyl a dělají z něj marmeládu.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "6. Hříbátko je mládětem pejska.",
+question: "86. Hříbátko je mládětem pejska.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "7. Broskev je chutná zelenina.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},
-{
-question: "8. Bambi byl malý koloušek.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "9. Zmrzlina se dělá z křídy.",
+question: "87. Broskev je chutná zelenina.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "10. Lepící páska se používá na slepování papíru.",
+question: "88. Bambi byl malý koloušek.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "11. Voda se vypařuje a mění se na páru.",
+question: "89. Zmrzlina se dělá z křídy.",
+a: "pravda",
+b: "lež",
+
+correct: "b",
+},
+{
+question: "90. Lepící páska se používá na slepování papíru.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "91. Voda se vypařuje a mění se na páru.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "12. Zem se otáčí kolem slunce.",
+question: "92. Zem se otáčí kolem slunce.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "13. Magnet přitahuje železné předměty.",
+question: "93. Magnet přitahuje železné předměty.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "14. Lidé potřebují kyslík na dýchání.",
+question: "94. Lidé potřebují kyslík na dýchání.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "15. Pták se líhne z vajíčka.",
+question: "95. Pták se líhne z vajíčka.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "16. Všechny děti se učí počítat.",
+question: "96. Všechny děti se učí počítat.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "17. Klavír je hudební nástroj.",
+question: "97. Klavír je hudební nástroj.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "18. Knížky se vyrábí z kakaa.",
+question: "98. Knížky se vyrábí z kakaa.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "19. Leden je první měsíc v roku.",
+question: "99. Leden je první měsíc v roku.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "20. Listy padají ze stromů.",
+question: "100. Listy padají ze stromů.",
 a: "pravda",
 b: "lež",
 
