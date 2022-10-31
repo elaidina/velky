@@ -469,191 +469,191 @@ b: "lež",
 correct: "b",
 },
 {
-question: "72. Zem se otáčí kolem slunce.",
+question: "72. V Africe se pěstují banány.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "73. Magnet přitahuje železné předměty.",
+question: "73. Nejvyšší vrch světa se jmenuje Mont Everest.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "74. Lidé potřebují kyslík na dýchání.",
+question: "74. Slovenská prezidentka se jmenuje Zuzana Čaputová.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "75. Pták se líhne z vajíčka.",
+question: "75. Telefonní číslo na záchranáře, hasiče i policajty je 112.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "76. Všechny děti se učí počítat.",
+question: "76. Koledy jsou písně, které se hrají na Vánoce.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "77. Klavír je hudební nástroj.",
+question: "77. Duet je píseň, která se zpívá ve dvojici.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "78. Knížky se vyrábí z kakaa.",
+question: "78. 123 je dvouciferní číslo.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "79. Leden je první měsíc v roku.",
+question: "79. Veverka je vodní zvíře.",
+a: "pravda",
+b: "lež",
+
+correct: "b",
+},
+{
+question: "80. Jahody se anglicky řeknou strawberries.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "80. Listy padají ze stromů.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-  question: "81. Hrušky jsou velká auta.",
+  question: "81. Nejvyšší vrch Slovenska je Straník.",
   a: "pravda",
   b: "lež",
   
   correct: "b",
 },
 {
-question: "82. V bance se peče chleba.",
+question: "82. Jánošík je druh slona.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "83. Panenky umí mluvit.",
+question: "83. Království existují pouze v pohádkách.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "84. Zelená na semaforu znamená, že můžeme jít.",
+question: "84. Kůň je rychlejší než slimák.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "85. Včely sbírají pyl a dělají z něj marmeládu.",
+question: "85. Spiderman umí číst myšlenky zvířat.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "86. Hříbátko je mládětem pejska.",
+question: "86. Koťátko je mládětem veverky.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "87. Broskev je chutná zelenina.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},
-{
-question: "88. Bambi byl malý koloušek.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "89. Zmrzlina se dělá z křídy.",
+question: "87. Jablka neobsahují žádné vitamíny.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },
 {
-question: "90. Lepící páska se používá na slepování papíru.",
+question: "88. Černá je nejtmavší barva.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "91. Voda se vypařuje a mění se na páru.",
+question: "89. Dopravní značky jsou určeny jen pro mravence.",
+a: "pravda",
+b: "lež",
+
+correct: "b",
+},
+{
+question: "90. Moře je většinou slané.",
+a: "pravda",
+b: "lež",
+
+correct: "a",
+},{
+question: "91. Tucet je, když je něčeho 12 kusů.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "92. Zem se otáčí kolem slunce.",
+question: "92. Zmrzlina je studená a slaná.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "93. Magnet přitahuje železné předměty.",
+question: "93.Na výrobu cementu potřebujeme písek.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "94. Lidé potřebují kyslík na dýchání.",
+question: "94. Loket a koleno jsou klouby.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "95. Pták se líhne z vajíčka.",
+question: "95. Grepfruit má hořkosladkou chuť.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "96. Všechny děti se učí počítat.",
+question: "96. Děti začínají chodit kolem jednoho roku.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },{
-question: "97. Klavír je hudební nástroj.",
+question: "97. Pračka je dechový hudební nástroj.",
 a: "pravda",
 b: "lež",
 
 correct: "a",
 },
 {
-question: "98. Knížky se vyrábí z kakaa.",
+question: "98. Herci většinou pracují v ZOO.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "99. Leden je první měsíc v roku.",
+question: "99. Nejlepší na virové onemocnění je podat antibiotika.",
 a: "pravda",
 b: "lež",
 
-correct: "a",
+correct: "b",
 },
 {
-question: "100. Listy padají ze stromů.",
+question: "100. Nejdelší dny v roce jsou v létě.",
 a: "pravda",
 b: "lež",
 
