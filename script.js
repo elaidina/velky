@@ -166,7 +166,7 @@ b: "lež",
 correct: "b",
 },
 {
-question: "26. Hříbátko je mládětem pejska.",
+question: "26. Rok má 100 dní.",
 a: "pravda",
 b: "lež",
 
@@ -601,13 +601,13 @@ b: "lež",
 correct: "a",
 },
 {
-question: "92. Zmrzlina je studená a slaná.",
+question: "92. Zmrzlina je vždy studená a slaná.",
 a: "pravda",
 b: "lež",
 
 correct: "b",
 },{
-question: "93.Na výrobu cementu potřebujeme písek.",
+question: "93.Na výrobu betonu potřebujeme písek.",
 a: "pravda",
 b: "lež",
 
